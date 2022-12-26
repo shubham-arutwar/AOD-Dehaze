@@ -1,0 +1,6 @@
+#torch
+torchvision==0.2.1
+#tensorboardX==1.4
+#tensorflow-gpu
+#tensorflow-tensorboard==0.1.8
+#numpy==1.13.3
